@@ -14,6 +14,7 @@ Frontend: HTML, CSS, JavaScript
 Styling: CSS (or Bootstrap for better UI)
 <br>
 <hr>
+<br>
 🚀 How to Use
 1️⃣ Enter numbers using the number buttons.
 2️⃣ Click on an operator (+, -, ×, ÷).
